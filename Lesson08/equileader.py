@@ -5,7 +5,6 @@ from collections import defaultdict
 
 def solution(A):
     # write your code in Python 3.6
-    count = 0
     a_dict = defaultdict(int)
     num = 0
     max_count = 0
